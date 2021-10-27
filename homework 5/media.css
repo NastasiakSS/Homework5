@@ -1,0 +1,15 @@
+@media screen and (max-width: 411px ) {
+.centr_box{
+    position: relative;
+    left: 24px;
+    width: 80%;
+    display: inline-block;
+    flex-direction: column;
+    margin-bottom: 5px;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+}
